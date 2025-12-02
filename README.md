@@ -19,8 +19,9 @@
   - Grow through consistent practice and documentation  
   
   📫 Contact
-  - se0y0ung.lim00@gmail.com
-  
+  se0y0ung.lim00@gmail.com
+
+  <br/>
   ## 🖥️ Tech Stack
   ### Language
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -31,7 +32,8 @@
   ### Framework
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-  
+
+  <br/>
   ## 📚 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo0)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
