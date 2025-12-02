@@ -38,8 +38,10 @@
     
   ## 📚 GitHub Stats
   
-  ![Seoyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoy0ung&show_icons=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoy0ung&layout=compact)
+  ![Seoyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoy0ung&show_icons=true&theme=dark&cache_seconds=1800)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoy0ung&layout=compact&theme=dark&cache_seconds=1800)
+  
 
     
 </div>
