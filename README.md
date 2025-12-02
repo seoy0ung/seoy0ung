@@ -1,5 +1,6 @@
 <div>
   Hi there 👋 I'm Seoyoung
+  
   ## 🔐 Aspiring Security & Network Engineer
   > 기초부터 탄탄하게 쌓아가는 보안·네트워크 엔지니어를 목표로 하고 있어요!
   
@@ -32,9 +33,9 @@
   <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
   
   ## 📚 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoy0ung)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo0)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoy0ung)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seo0)](https://github.com/anuraghazra/github-readme-stats)
     
 </div>
 
