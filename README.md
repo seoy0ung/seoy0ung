@@ -33,16 +33,6 @@
   ### Framework
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-
-  <br/>
-    
-  ## 📚 GitHub Stats
-  
-  ![Seoyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoy0ung&show_icons=true&theme=dark&cache_seconds=1800)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoy0ung&layout=compact&theme=dark&cache_seconds=1800)
-  
-
     
 </div>
 
