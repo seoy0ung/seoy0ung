@@ -1,22 +1,35 @@
 <div>
-  Hi there 👋 I'm Seoyoung
-  
-  ## 🔐 Aspiring Security & Network Engineer
-  > 기초부터 탄탄하게 쌓아가는 보안·네트워크 엔지니어를 목표로 하고 있어요!
-  
-  🌱 Currently learning
-  - Python & JavaScript
-  - Computer Networks
-  - Algorithms and problem solving
-  
-  📂 What you'll find here
-  - Study notes and practice code 
-  - Algorithm challenges (BOJ / Programmers)
-  - Security & network fundamentals
-  
-  🎯 Goal
-  - Build a strong foundation in security and networking  
-  - Grow through consistent practice and documentation  
+Hi there 👋 I'm Seoyoung
+
+## 💻 Frontend-Oriented Full Stack & AI Engineer
+>  React 중심의 프론트엔드와 AI 기반 기능 구현을 학습 중입니다.
+
+🌱 Currently learning
+- React & modern JavaScript (ES6+)
+- Frontend architecture & state management
+- Web performance & UX patterns
+- AI fundamentals and LLM-based service integration
+- Algorithms and problem solving
+
+🧠 Experienced with
+- Vue.js
+- Django & Django REST Framework
+- RESTful API design
+- Data-driven web services
+
+📂 What you'll find here
+- Frontend-centered full stack projects
+- Vue/Django projects and API-based services
+- React practice projects and UI experiments
+- AI-powered features (recommendation, summarization)
+- Algorithm challenges (BOJ / SWEA)
+
+🎯 Goal
+- Grow as a frontend-driven full stack engineer
+- Build user-focused, scalable web applications
+- Gradually expand backend skills with Spring Boot
+- Apply AI to real-world products, not just models
+
   
   📫 Contact
   se0y0ung.lim00@gmail.com
